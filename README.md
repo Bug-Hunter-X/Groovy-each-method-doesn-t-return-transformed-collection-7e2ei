@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy where the 'each' method doesn't return a modified collection. The 'bug.groovy' file shows the erroneous code, while 'bugSolution.groovy' provides the correct solution using 'collect' for transformation.
